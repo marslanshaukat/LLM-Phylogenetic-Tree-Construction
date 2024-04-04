@@ -1,0 +1,112 @@
+(
+(
+(
+(
+A/duck/Guangxi/030D/2009\(H1N1\):0.0070877,
+(
+A/thick-billed_murre/Canada/1871/2011\(H1N1\):0.0065382,
+(
+A/mallard/France/691/2002\(H1N1\):0.0043491,
+A/duck/Hokkaido/w73/2007\(H1N1\):0.0043491)
+Branch 5:0.002189)
+Branch 7:0.00054959)
+Branch 8:0.035818,
+(
+A/pintail/Miyagi/1472/2008\(H1N1\):0.026405,
+(
+A/mallard/Korea/KNU_YP09/2009\(H1N1\):0.019317,
+A/mallard/Maryland/352/2002\(H1N1\):0.019317)
+Branch 15:0.0070881)
+Branch 18:0.016501)
+Branch 27:0.065607,
+(
+(
+A/turkey/Ontario/FAV110-4/2009\(H1N1\):0.0076363,
+A/mallard/Nova_Scotia/00088/2010\(H1N1\):0.0076363)
+Branch 9:0.096591,
+(
+(
+A/chicken/Miyazaki/10/2011\(H5N1\):0.03723,
+(
+A/Chicken/Hong_Kong/822.1/01_\(H5N1\):0.03398,
+(
+A/chicken/Korea/es/2003\(H5N1\):0.023558,
+(
+A/mandarin_duck/Korea/K10-483/2010\(H5N1\):0.017071,
+A/turkey/VA/505477-18/2007\(H5N1\):0.017071)
+Branch 14:0.0064877)
+Branch 17:0.010422)
+Branch 23:0.00325)
+Branch 24:0.029211,
+(
+(
+(
+A/chicken/Yunnan/chuxiong01/2005\(H5N1\):0.023283,
+(
+A/chicken/Germany/R3234/2007\(H5N1\):0.015393,
+(
+A/domestic_duck/Germany/R1772/2007\(H5N1\):0.0010837,
+A/wild_bird/Hong_Kong/07035-1/2011\(H5N1\):0.0010837)
+Branch 1:0.014309)
+Branch 12:0.0078902)
+Branch 16:0.0053692,
+(
+A/duck/Eastern_China/JS017/2009\(H5N1\):0.028119,
+(
+A/turkey/Virginia/4135/2014\(H1N1\):0.0048955,
+A/chicken/Eastern_China/XH222/2008\(H5N1\):0.0048955)
+Branch 6:0.023224)
+Branch 21:0.00053279)
+Branch 22:0.015444,
+(
+A/mallard/Maryland/26/2003\(H1N1\):0.037372,
+(
+A/dunlin/Alaska/44421-660/2008\(H1N1\):0.0016264,
+A/mallard/Minnesota/Sg-00620/2008\(H1N1\):0.0016264)
+Branch 2:0.035746)
+Branch 25:0.0067243)
+Branch 28:0.022345)
+Branch 30:0.037786)
+Branch 33:0.0042856)
+Branch 34:0.33707,
+(
+(
+A/American_black_duck/NB/2538/2007\(H7N3\):0.10016,
+(
+A/American_black_duck/New_Brunswick/02490/2007\(H7N3\):0.057935,
+A/American_green-winged_teal/California/44242-906/2007\(H7N3\):0.057935)
+Branch 29:0.042226)
+Branch 32:0.32806,
+(
+(
+(
+A/avian/Delaware_Bay/226/2006\(H7N3\):0.012608,
+A/chicken/British_Columbia/GSC_human_B/04\(H7N3\):0.012608)
+Branch 11:0.014952,
+(
+A/chicken/Rizhao/713/2013\(H7N9\):0.016232,
+(
+A/chicken/Jiangsu/1021/2013\(H7N9\):0.0016264,
+A/duck/Jiangxi/3096/2009\(H7N9\):0.0016264)
+Branch 3:0.014605)
+Branch 13:0.011329)
+Branch 19:0.37887,
+(
+(
+A/wild_duck/Korea/SH19-47/2010\(H7N9\):0.027649,
+(
+A/turkey/Minnesota/1/1988\(H7N9\):0.010116,
+(
+A/mallard/Minnesota/AI09-3770/2009\(H7N9\):0.0038034,
+A/mallard/Postdam/178-4/1983\(H2N2\):0.0038034)
+Branch 4:0.0063128)
+Branch 10:0.017533)
+Branch 20:0.048143,
+(
+A/duck/Hong_Kong/319/1978\(H2N2\):0.038249,
+A/emperor_goose/Alaska/44297-260/2007\(H2N2\):0.038249)
+Branch 26:0.037543)
+Branch 31:0.33064)
+Branch 35:0.021788)
+Branch 36:0.017364)
+Branch 37;

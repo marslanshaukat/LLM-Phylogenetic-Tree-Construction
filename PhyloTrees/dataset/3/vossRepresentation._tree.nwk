@@ -1,0 +1,205 @@
+(
+PCoV/Guangdong/P2S:0.46143,
+(
+Bat/Yunnan/RmYN01:0.42135,
+(
+PCoV_GX-P3B:0.36438,
+(
+PCoV-MP789:0.35718,
+(
+Bat/Yunnan/RmYN02:0.3212,
+(
+(
+SARS_CoV_BtKY72:0.3187,
+Bat_CoV_BM48-31/BGR/2008:0.3187)
+Branch 61:0.0012893,
+(
+(
+(
+Wuhan/WIV02:0.29465,
+Wuhan/WIV05:0.29465)
+Branch 30:0.017258,
+(
+Wuhan-Hu-1:0.3002,
+(
+Bat-CoV_RaTG13:0.2909,
+(
+Wuhan/IVDC-HB-envF13-20:0.0043886,
+(
+Wuhan/WIV04:0.0036143,
+Wuhan/IVDC-HB-envF13-21:0.0036143)
+Branch 1:0.00077427)
+Branch 2:0.28651)
+Branch 25:0.0092964)
+Branch 35:0.011706)
+Branch 49:0.0076062,
+(
+(
+Wuhan/WIV07:0.31248,
+PCoV/Guangdong/1:0.31248)
+Branch 51:0.0057796,
+(
+SARS-CoV_WH20:0.31708,
+(
+BtRf-BetaCoV/HeB2013:0.31667,
+(
+(
+BtRs-BetaCoV/GX2013:0.31356,
+(
+(
+(
+BtRs-BetaCoV/YN2018B:0.30893,
+BtRs-BetaCoV/YN2013:0.30893)
+Branch 42:0.0013829,
+(
+Wuhan/WIV06:0.30928,
+(
+SARS-CoV_BJ01:0.30741,
+(
+(
+PCoV_GX-P2V:0.2832,
+(
+PCoV_GX-P1E:0.20663,
+(
+PCoV_GX-P5E:0.020221,
+(
+PCoV_GX-P4L:0.015512,
+PCoV_GX-P5L:0.015512)
+Branch 4:0.0047088)
+Branch 5:0.18641)
+Branch 14:0.076569)
+Branch 20:0.02307,
+(
+BtCoV/279/2005:0.30014,
+(
+(
+Bat_SARS_CoV_Rm1:0.29259,
+(
+BtCoV/273/2005:0.27394,
+(
+Bat_SARS-like_CoV_YNLF_34C:0.014688,
+Bat_SARS-like_CoV_YNLF_31C:0.014688)
+Branch 3:0.25925)
+Branch 19:0.018658)
+Branch 26:0.0054151,
+(
+Bat_SARS_CoV_Rf1:0.29456,
+(
+Bat_CoV_Longquan-140:0.28888,
+BtRl-BetaCoV/SC2018:0.28888)
+Branch 23:0.0056749)
+Branch 29:0.00345)
+Branch 32:0.0021351)
+Branch 34:0.0061229)
+Branch 37:0.0011381)
+Branch 39:0.0018715)
+Branch 44:0.0010376)
+Branch 46:0.0024566,
+(
+(
+(
+Bat_SARS-like_CoV_WIV16:0.29281,
+(
+Bat_SARS-like_CoV_Rs7327:0.20042,
+(
+Bat_SARS-like_CoV_Rs4874:0.17947,
+Bat_SARS-like_CoV_WIV1:0.17947)
+Branch 10:0.020946)
+Branch 13:0.092391)
+Branch 28:0.018929,
+(
+BtRf-BetaCoV/SX2013:0.30937,
+(
+BtRs-BetaCoV/YN2018D:0.30841,
+Bat_SARS-CoV_Rs672:0.30841)
+Branch 41:0.00095602)
+Branch 45:0.0023658)
+Branch 48:0.00082958,
+(
+BtRf-BetaCoV/JL2012:0.31232,
+(
+BtRs-BetaCoV/HuB2013:0.30905,
+(
+Bat_SL-CoVZC45:0.30734,
+(
+(
+(
+Bat_SARS-like_CoV_Rs4231:0.26355,
+(
+Bat_SARS-like_CoV_Rs3367:0.18201,
+Bat_SARS-like_CoV_RsSHC014:0.18201)
+Branch 11:0.081539)
+Branch 16:0.029069,
+(
+Bat_SARS-CoV_HKU3-1:0.28688,
+(
+SARS-CoV_GZ02:0.27385,
+(
+Bat_SARS-like_CoV_Rs9401:0.098954,
+Bat_SARS-like_CoV_Rs4084:0.098954)
+Branch 7:0.1749)
+Branch 18:0.013024)
+Branch 22:0.0057384)
+Branch 27:0.0065932,
+(
+(
+(
+SARS-CoV_Sino1-11:0.19241,
+(
+(
+Bat_SARS-like_CoV_Rs4237:0.068404,
+Bat_SARS-like_CoV_Rs4081:0.068404)
+Branch 6:0.10574,
+(
+Bat_SARS-like_CoV_Rs4255:0.15333,
+Bat_SARS-like_CoV_Rs4247:0.15333)
+Branch 8:0.020815)
+Branch 9:0.018271)
+Branch 12:0.092034,
+(
+SARS-CoV_Tor2:0.26519,
+(
+Bat_SL-CoVZXC21:0.24089,
+Bat_SARS-CoV_Rp3:0.24089)
+Branch 15:0.024303)
+Branch 17:0.019254)
+Branch 21:0.010736,
+(
+Bat_SARS-like_CoV_Rf4092:0.28902,
+Bat_SARS-like_CoV_As6526:0.28902)
+Branch 24:0.0061596)
+Branch 31:0.0040253)
+Branch 33:0.0081294)
+Branch 38:0.0017133)
+Branch 43:0.0032689)
+Branch 50:0.00024388)
+Branch 52:0.0002068)
+Branch 53:0.00078397)
+Branch 55:0.0020001,
+(
+(
+BtCoV_Cp/Yunnan2011:0.31093,
+BtCoV_Rp/Shaanxi2011:0.31093)
+Branch 47:0.0041347,
+(
+BtRs-BetaCoV/YN2018C:0.31306,
+(
+LYRa11:0.30823,
+(
+Bat_SARS-CoV_HKU3-3:0.30433,
+Bat_SARS-CoV_HKU3-2:0.30433)
+Branch 36:0.003904)
+Branch 40:0.0048349)
+Branch 54:0.0020006)
+Branch 56:0.00049097)
+Branch 57:0.0011131)
+Branch 58:0.00041116)
+Branch 59:0.0011792)
+Branch 60:0.0012513)
+Branch 62:0.00048103)
+Branch 63:0.0012102)
+Branch 64:0.035983)
+Branch 65:0.0071941)
+Branch 66:0.056967)
+Branch 67:0.040089)
+Branch 68;

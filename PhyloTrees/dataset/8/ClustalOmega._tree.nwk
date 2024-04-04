@@ -1,0 +1,91 @@
+(
+Hedgehog:0.44722,
+(
+(
+(
+Ver_Monkey:0.19831,
+(
+Baboon:0.18616,
+Macaca_Thibet:0.18616)
+Branch 14:0.012149)
+Branch 16:0.082994,
+(
+Gibbon:0.21102,
+(
+(
+Bor_Oran:0.076825,
+Sum_Oran:0.076825)
+Branch 4:0.11336,
+(
+Gorilla:0.12898,
+(
+Human:0.10578,
+(
+Pig_Chim:0.045356,
+Com_Chim:0.045356)
+Branch 3:0.060419)
+Branch 6:0.023202)
+Branch 9:0.061204)
+Branch 15:0.020838)
+Branch 18:0.070279)
+Branch 24:0.11646,
+(
+Dormouse:0.37356,
+(
+(
+(
+(
+Indian_Rhino:0.1369,
+White_Rhino:0.1369)
+Branch 10:0.13393,
+(
+Blue_Whale:0.26667,
+(
+Pig:0.25869,
+(
+(
+Sheep:0.12301,
+Goat:0.12301)
+Branch 8:0.054129,
+(
+Cow:0.14608,
+Buffalo:0.14608)
+Branch 11:0.03106)
+Branch 13:0.081549)
+Branch 19:0.007983)
+Branch 21:0.0041519)
+Branch 22:0.02804,
+(
+(
+Giant_Panda:0.21058,
+(
+Black_Bear:0.1029,
+(
+Brown_Bear:0.023873,
+Polar_Bear:0.023873)
+Branch 1:0.079023)
+Branch 5:0.10769)
+Branch 17:0.061005,
+(
+(
+Dog:0.032887,
+Wolf:0.032887)
+Branch 2:0.23353,
+(
+Cat:0.14963,
+(
+Tiger:0.11124,
+Leopard:0.11124)
+Branch 7:0.038392)
+Branch 12:0.11678)
+Branch 20:0.0051744)
+Branch 23:0.027277)
+Branch 25:0.046676,
+(
+Rabbit:0.33744,
+Squirrel:0.33744)
+Branch 26:0.0081003)
+Branch 27:0.028012)
+Branch 28:0.0242)
+Branch 29:0.04946)
+Branch 30;

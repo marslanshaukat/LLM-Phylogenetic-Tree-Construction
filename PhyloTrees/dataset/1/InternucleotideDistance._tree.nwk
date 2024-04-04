@@ -1,0 +1,166 @@
+(
+(
+(
+NC_032107.1 NL63-related bat coronavirus\, Alphacoronavirus\; Setracovirus:0.020591,
+(
+NC_028752.1 Camel alphacoronavirus\, Alphacoronavirus\; Duvinacovirus:0.0052627,
+NC_016992.1 Sparrow coronavirus HKU17\, Deltacoronavirus\; Buldecovirus:0.0052627)
+Branch 12:0.015328)
+Branch 42:0.080619,
+(
+NC_023760.1 Mink coronavirus strain WD1127\, Alphacoronavirus\; Minacovirus:0.057242,
+(
+NC_039208.1 Porcine coronavirus HKU15\, Deltacoronavirus\; Buldecovirus:0.040266,
+(
+NC_046965.1 Canada goose coronavirus\, Gammacoronavirus:0.024898,
+NC_009020.1 Bat coronavirus HKU5-1\, Betacoronavirus\; Merbecovirus:0.024898)
+Branch 44:0.015369)
+Branch 48:0.016975)
+Branch 50:0.043969)
+Branch 53:0.17559,
+(
+(
+(
+(
+NC_038294.1 Betacoronavirus England 1\, Betacoronavirus\; Merbecovirus:0.00081931,
+NC_019843.3 MERS-CoV\, Betacoronavirus\; Merbecovirus:0.00081931)
+Branch 1:0.013706,
+(
+NC_039207.1 Betacoronavirus Erinaceus/VMC/DEU/2012\, Betacoronavirus\; Merbecovirus:0.0063264,
+NC_025217.1 Bat Hp-betacoronavirus/Zhejiang2013\, Betacoronavirus\; Hibecovirus:0.0063264)
+Branch 19:0.008199)
+Branch 38:0.03878,
+(
+(
+NC_006577.2 Human coronavirus HKU1\, Betacoronavirus\; Embecovirus:0.0087278,
+NC_003045.1 Bovine coronavirus\, Betacoronavirus\; Embecovirus:0.0087278)
+Branch 28:0.013662,
+(
+(
+NC_010646.1 Beluga Whale coronavirus SW1\, Gammacoronavirus\; Cegacovirus:0.0076176,
+(
+NC_006213.1 HCoV-OC43\, Betacoronavirus\; Embecovirus:0.0060189,
+(
+NC_026011.1 Betacoronavirus HKU24\, Betacoronavirus\; Embecovirus:0.0026987,
+NC_017083.1 Rabbit coronavirus HKU14\, Betacoronavirus\; Embecovirus:0.0026987)
+Branch 2:0.0033202)
+Branch 17:0.0015987)
+Branch 25:0.0076014,
+(
+NC_001846.1 Mouse hepatitis virus\, Betacoronavirus\; Embecovirus:0.011719,
+(
+NC_012936.1 Rat coronavirus Parker\, Betacoronavirus\; Embecovirus:0.0072376,
+(
+AC_000192.1 Murine hepatitis virus strain JHM\, Betacoronavirus\; Embecovirus:0.0059374,
+NC_009019.1 Bat coronavirus HKU4-1\, Betacoronavirus\; Merbecovirus:0.0059374)
+Branch 15:0.0013002)
+Branch 22:0.0044815)
+Branch 35:0.0034999)
+Branch 39:0.0071709)
+Branch 43:0.030915)
+Branch 49:0.11585,
+(
+(
+(
+NC_011550.1 Munia coronavirus HKU13-3514\, Deltacoronavirus\; Buldecovirus:0.0077602,
+NC_009021.1 Bat coronavirus HKU9-1\, Betacoronavirus\; Nobecovirus:0.0077602)
+Branch 26:0.020411,
+(
+(
+NC_016991.1 White-eye coronavirus HKU16\, Deltacoronavirus\; Buldecovirus:0.006207,
+(
+NC_016994.1 Night-heron coronavirus HKU19\, Deltacoronavirus\; Herdecovirus:0.0045759,
+NC_016993.1 Magpie-robin coronavirus HKU18\, Deltacoronavirus\; Buldecovirus:0.0045759)
+Branch 6:0.001631)
+Branch 18:0.0069079,
+(
+NC_011547.1 Bulbul coronavirus HKU11-934\, Deltacoronavirus\; Buldecovirus:0.0075751,
+NC_011549.1 Thrush coronavirus HKU12-600\, Deltacoronavirus\; Buldecovirus:0.0075751)
+Branch 24:0.0055397)
+Branch 36:0.015057)
+Branch 45:0.067885,
+(
+(
+(
+(
+NC_030886.1 Rousettus bat coronavirus\, Betacoronavirus\; Nobecovirus:0.0052247,
+NC_002306.3 Feline infectious peritonitis virus\, Alphacoronavirus\; Tegacovirus:0.0052247)
+Branch 9:0.0051723,
+(
+NC_032730.1 Lucheng Rn rat coronavirus\, Alphacoronavirus\; Luchacovirus:0.0059545,
+(
+NC_045512.2 SARS-CoV2\, Betacoronavirus\; Sarbecovirus:0.0057009,
+NC_004718.3 SARS-related coronavirus\, Betacoronavirus\; Sarbecovirus:0.0057009)
+Branch 13:0.00025355)
+Branch 16:0.0044426)
+Branch 32:0.009155,
+(
+NC_014470.1 Bat coronavirus BM48-31/BGR/2008\, Betacoronavirus\; Sarbecovirus:0.011269,
+(
+NC_010438.1 Bat coronavirus HKU8\, Alphacoronavirus\; Minunacovirus:0.0088976,
+NC_010437.1 Bat coronavirus 1A\, Alphacoronavirus\; Minunacovirus:0.0088976)
+Branch 29:0.0023713)
+Branch 34:0.0082831)
+Branch 40:0.04323,
+(
+NC_002645.1 Human coronavirus 229E\, Alphacoronavirus\; Duvinacovirus:0.039001,
+(
+(
+NC_038861.1 Transmissible gastroenteritis virus\, Alphacoronavirus\; Tegacovirus:0.0071702,
+NC_005831.2 HCoV-NL63\, Alphacoronavirus\; Setracovirus:0.0071702)
+Branch 21:0.02204,
+(
+(
+(
+NC_028811.1 BtMr-AlphaCoV/SAX2011\, Alphacoronavirus\; Myotacovirus:0.0074359,
+(
+(
+NC_046964.1 Alphacoronavirus Bat-CoV/P.kuhlii/Italy/3398-19/2015\, Alphacoronavirus\; Nyctacovirus:0.0050709,
+(
+NC_030292.1 Ferret coronavirus\, Alphacoronavirus\; Minacovirus:0.0041808,
+NC_028806.1 Swine enteric coronavirus\, Alphacoronavirus\; Tegacovirus:0.0041808)
+Branch 5:0.00089003)
+Branch 8:0.00078512,
+(
+NC_018871.1 Rousettus bat coronavirus HKU10\, Alphacoronavirus\; Decacovirus:0.0052547,
+(
+NC_009988.1 Bat coronavirus HKU2\, Alphacoronavirus\; Rhinacovirus:0.0035037,
+NC_003436.1 PEDV\, Alphacoronavirus\; Pedacovirus:0.0035037)
+Branch 3:0.001751)
+Branch 11:0.00060125)
+Branch 14:0.00158)
+Branch 23:0.0028704,
+(
+NC_022103.1 Bat coronavirus CDPHE15/USA/2006\, Alphacoronavirus\; Colacovirus:0.0085683,
+(
+NC_034972.1 Coronavirus AcCoV-JC34\, Alphacoronavirus\; Luchacovirus:0.0038921,
+NC_028824.1 BtRf-AlphaCoV/YN2012\, Alphacoronavirus\; Rhinacovirus:0.0038921)
+Branch 4:0.0046761)
+Branch 27:0.0017381)
+Branch 31:0.010213,
+(
+NC_016995.1 Wigeon coronavirus HKU20\, Deltacoronavirus\; Andecovirus:0.013482,
+(
+NC_028833.1 BtNv-AlphaCoV/SC2013\, Alphacoronavirus\; Nyctacovirus:0.011183,
+(
+(
+NC_016996.1 Common-moorhen coronavirus HKU21\, Deltacoronavirus\; Moordecovirus:0.0052287,
+NC_010800.1 Turkey coronavirus\, Gammacoronavirus\; Igacovirus:0.0052287)
+Branch 10:0.0037099,
+(
+NC_009657.1 Scotophilus bat coronavirus 512\, Alphacoronavirus\; Pedacovirus:0.0068599,
+(
+NC_028814.1 BtRf-AlphaCoV/HuB2013\, Alphacoronavirus\; Decacovirus:0.0047687,
+NC_001451.1 Avian infectious bronchitis virus\, Gammacoronavirus\; Igacovirus:0.0047687)
+Branch 7:0.0020913)
+Branch 20:0.0020786)
+Branch 30:0.0022441)
+Branch 33:0.0022996)
+Branch 37:0.0070372)
+Branch 41:0.0086905)
+Branch 46:0.0097906)
+Branch 47:0.023782)
+Branch 51:0.033274)
+Branch 52:0.073099)
+Branch 54:0.10764)
+Branch 55;

@@ -1,0 +1,316 @@
+(
+(
+(
+(
+(
+Camel alphacoronavirus isolate camel/Riyadh/Ry159\(a\)/2015\, complete genome:0.01798,
+(
+Camel alphacoronavirus isolate camel/Riyadh/Ry141/2015\(1\)\, complete genome:0,
+Camel alphacoronavirus isolate camel/Riyadh/Ry141/2015\, complete genome:0)
+Branch 4:0.01798)
+Branch 16:0.005635,
+(
+(
+Camel alphacoronavirus isolate camel/Jeddah/D43\(a\)/2014\, complete genome:0.011449,
+(
+Camel alphacoronavirus isolate camel/Jeddah/Jd8/2015\, complete genome:0,
+Camel alphacoronavirus isolate camel/Jeddah/Jd28/2015\, complete genome:0)
+Branch 3:0.011449)
+Branch 10:0.010122,
+(
+Camel alphacoronavirus isolate camel/Jeddah/N38/2014\, complete genome:0.018898,
+(
+Camel alphacoronavirus isolate camel/Jeddah/O100/2014\, complete genome:0.0075974,
+Camel alphacoronavirus isolate camel/Jeddah/D50\(a\)/2014\, complete genome:0.0075974)
+Branch 8:0.0113)
+Branch 18:0.002673)
+Branch 21:0.0020445)
+Branch 24:0.23648,
+(
+Camel alphacoronavirus isolate camel/Jeddah/N68\(a\)/2014\, complete genome:0.027886,
+(
+Camel alphacoronavirus isolate camel/Jeddah/O23\(a\)/2014\, complete genome:0.018212,
+(
+Camel alphacoronavirus isolate camel/Jeddah/Jd63/2014\, complete genome:0.014558,
+(
+Camel alphacoronavirus isolate camel/Jeddah/D33\(a\)/2014\, complete genome:0.0026799,
+Camel alphacoronavirus isolate camel/Jeddah/D46\(a\)/2014\, complete genome:0.0026799)
+Branch 5:0.011879)
+Branch 12:0.003654)
+Branch 17:0.009674)
+Branch 25:0.23221)
+Branch 30:0.089389,
+(
+(
+Camel alphacoronavirus isolate camel/Jeddah/D38\(a\)/2014\, complete genome:0.098769,
+(
+Camel alphacoronavirus isolate camel/Jeddah/Jd55/2014\, complete genome:0.015133,
+Camel alphacoronavirus isolate camel/Jeddah/Jd1\(a\)/2015\, complete genome:0.015133)
+Branch 13:0.083635)
+Branch 26:0.22666,
+(
+(
+(
+Camel alphacoronavirus isolate camel/Jeddah/Jd6\(a\)/2015\, complete genome:0.0060692,
+Camel alphacoronavirus isolate camel/Taif/T91\(a\)/2015\, complete genome:0.0060692)
+Branch 7:0.013636,
+(
+Camel alphacoronavirus Abu Dhabi B38\, complete genome:0.0089545,
+Camel alphacoronavirus isolate camel/Jeddah/O47\(a\)/2014\, complete genome:0.0089545)
+Branch 9:0.010751)
+Branch 19:0.24035,
+(
+Camel alphacoronavirus isolate camel/Taif/T193/2015\, complete genome:0.023359,
+(
+Camel alphacoronavirus isolate camel/Jeddah/N62\(a\)/2014\, complete genome:0.021822,
+(
+Camel alphacoronavirus isolate camel/Jeddah/N60/2014\, complete genome:0.01748,
+(
+Camel alphacoronavirus isolate camel/Taif/T96/2015\, complete genome:0.015177,
+(
+Camel alphacoronavirus isolate camel/Jeddah/Jd29/2014\, complete genome:0.011662,
+Camel alphacoronavirus isolate camel/Taif/T157\(a\)/2015\, complete genome:0.011662)
+Branch 11:0.0035148)
+Branch 14:0.0023032)
+Branch 15:0.0043414)
+Branch 22:0.0015373)
+Branch 23:0.23669)
+Branch 29:0.065374)
+Branch 34:0.024063)
+Branch 36:0.12201,
+(
+Murine coronavirus MHV-JHM.IA\, complete genome:0.47033,
+(
+(
+(
+(
+Murine coronavirus strain MHV/BHKR_lab/USA/infA59_H126A/2012\, complete genome:0.021413,
+(
+Murine coronavirus strain MHV/BHKR_lab/USA/icA59_L94P/2012\, complete genome:0.0026947,
+Murine coronavirus strain MHV/BHKR_lab/USA/icA59_17Cl1/2012\, complete genome:0.0026947)
+Branch 6:0.018719)
+Branch 20:0.43021,
+(
+Rat coronavirus Parker\, complete genome:0.41814,
+(
+Rat coronavirus isolate 681\, complete genome:0.37346,
+Rat coronavirus isolate 8190\, complete genome:0.37346)
+Branch 38:0.044681)
+Branch 43:0.033482)
+Branch 76:0.014221,
+(
+Bovine coronavirus isolate ICSA-pool-LBA\, complete genome:0.46178,
+(
+(
+Bat coronavirus isolate Anlong-43\, complete genome:0.45218,
+(
+(
+(
+Bat coronavirus BtCoV/Rh/YN2012 isolate BtCoV/Rh/YN2012_Rs3376\, complete genome:0.43277,
+(
+Bat coronavirus BtCoV/Rh/YN2012 isolate BtCoV/Rh/YN2012_Rs4125\, complete genome:0.27071,
+Bat coronavirus BtCoV/Rh/YN2012 isolate BtCoV/Rh/YN2012_Rs4259\, complete genome:0.27071)
+Branch 31:0.16206)
+Branch 52:0.016975,
+(
+Bat coronavirus isolate Anlong-57\, complete genome:0.44908,
+(
+(
+(
+civet010\, complete genome:0.44143,
+Human/Wuhan/WIV07:0.44143)
+Branch 60:0.0057058,
+(
+Bat coronavirus Vs-CoV-1 genomic RNA\, nearly complete genome:0.44522,
+(
+Bat coronavirus isolate PREDICT/PDF-2180\, complete genome:0,
+Bat coronavirus isolate PREDICT/PDF-2180\(1\)\, complete genome:0)
+Branch 2:0.44522)
+Branch 64:0.0019161)
+Branch 65:0.0011485,
+(
+Bovine coronavirus isolate ICSA21-LBA\, complete genome:0.4472,
+Bat coronavirus strain 16BO133\, complete genome:0.4472)
+Branch 66:0.0010844)
+Branch 68:0.00079314)
+Branch 71:0.00066579)
+Branch 72:0.0020214,
+(
+(
+Feline coronavirus isolate Cat 1 Karlslunde\, complete genome:0.43925,
+Feline coronavirus strain FCoV/NTU156/P/2007\, complete genome:0.43925)
+Branch 59:0.011247,
+(
+Feline coronavirus strain HLJ/HRB/2016/10\, complete genome:0.44755,
+(
+(
+Feline coronavirus UU9\, complete genome:0.3709,
+Feline coronavirus UU15\, complete genome:0.3709)
+Branch 37:0.067295,
+(
+Feline coronavirus strain HLJ/DQ/2016/01\, complete genome:0.40826,
+Feline coronavirus UU5\, complete genome:0.40826)
+Branch 40:0.029933)
+Branch 57:0.0093523)
+Branch 67:0.0029481)
+Branch 73:0.0012674)
+Branch 77:0.00041189)
+Branch 79:0.0067331,
+(
+Bat coronavirus isolate JTMC15\, complete genome:0.456,
+(
+(
+Canine coronavirus isolate HLJ-073\, complete genome:0.45156,
+(
+Feline coronavirus UU3\, complete genome:0.44497,
+(
+(
+Feline coronavirus UU7\, complete genome:0.42281,
+(
+Feline coronavirus UU2\, complete genome:0.41551,
+(
+Feline coronavirus UU10\, complete genome:0.3982,
+Feline coronavirus UU11\, complete genome:0.3982)
+Branch 39:0.017313)
+Branch 41:0.0073052)
+Branch 47:0.020666,
+(
+Feline coronavirus strain HLJ/HRB/2016/13\, complete genome:0.43898,
+(
+Feline coronavirus strain HLJ/HRB/2016/11\, complete genome:0.4247,
+Feline coronavirus RM\, complete genome:0.4247)
+Branch 48:0.014283)
+Branch 58:0.0044963)
+Branch 61:0.0014889)
+Branch 63:0.0065912)
+Branch 75:0.0026628,
+(
+Feline coronavirus UU4\, complete genome:0.45295,
+(
+(
+Canine coronavirus isolate HLJ-071\, complete genome:0.4443,
+(
+Feline coronavirus strain FIPV 79-1146\, complete genome:0.43261,
+Canine coronavirus isolate HLJ-072\, complete genome:0.43261)
+Branch 51:0.011686)
+Branch 62:0.008235,
+(
+(
+Mink coronavirus strain WD1127\, complete genome:0.43473,
+Mink coronavirus strain WD1133\, complete genome:0.43473)
+Branch 54:0.017169,
+(
+Bat coronavirus isolate JPDB144\, complete genome:0.45063,
+(
+Bat coronavirus isolate Jiyuan-84\, complete genome:0.44843,
+(
+Human/Wuhan/WIV06:0.43447,
+(
+Pangolin coronavirus isolate PCoV_GX-P2V\, complete genome:0.41749,
+(
+Pangolin coronavirus isolate PCoV_GX-P1E\, complete genome:0.28917,
+(
+Pangolin coronavirus isolate PCoV_GX-P5E\, complete genome:0.24125,
+(
+Pangolin coronavirus isolate PCoV_GX-P5L\, complete genome:0.12303,
+Pangolin coronavirus isolate PCoV_GX-P4L\, complete genome:0.12303)
+Branch 27:0.11822)
+Branch 28:0.047914)
+Branch 33:0.12832)
+Branch 42:0.016985)
+Branch 53:0.013959)
+Branch 69:0.002196)
+Branch 74:0.0012652)
+Branch 78:0.00063689)
+Branch 80:0.00041387)
+Branch 83:0.0012773)
+Branch 85:0.0017815)
+Branch 86:0.0029059)
+Branch 91:0.0028707)
+Branch 93:0.0040627)
+Branch 100:0.0020765,
+(
+(
+(
+Murine coronavirus strain MHV/BHKR_lab/USA/icA59_ns2M/2012\, complete genome:0.42186,
+Murine coronavirus inf-MHV-A59\, complete genome:0.42186)
+Branch 46:0.042178,
+(
+Rabbit coronavirus HKU14 strain HKU14-3\, complete genome:0.42781,
+(
+Rabbit coronavirus HKU14 strain HKU14-8\, complete genome:0.27347,
+(
+Rabbit coronavirus HKU14\, complete genome:0,
+Rabbit coronavirus HKU14 strain HKU14-1\, complete genome:0)
+Branch 1:0.27347)
+Branch 32:0.15434)
+Branch 49:0.036228)
+Branch 97:0.002586,
+(
+Bovine coronavirus isolate ICSA16-LBA\, complete genome:0.46603,
+(
+(
+Rat coronavirus isolate Lucheng-19\, complete genome:0.46322,
+(
+Rabbit coronavirus HKU14 strain HKU14-10\, complete genome:0.45629,
+(
+Bovine coronavirus isolate ICSA-pool-EN\, complete genome:0.33679,
+Bovine coronavirus isolate ICSA16-EN\, complete genome:0.33679)
+Branch 35:0.1195)
+Branch 87:0.0069384)
+Branch 95:0.0022841,
+(
+Mink/China/1/2016\, complete genome:0.46477,
+(
+Bat coronavirus strain BtCoV92\, complete genome:0.46401,
+(
+(
+civet020\, complete genome:0.45712,
+(
+(
+Human/Wuhan/WIV04:0.43714,
+(
+Human/Wuhan/WIV02:0.42105,
+Human/Wuhan/WIV05:0.42105)
+Branch 45:0.016086)
+Branch 56:0.017017,
+(
+(
+Bat coronavirus isolate Anlong-112\, complete genome:0.43164,
+Bat coronavirus isolate Anlong-103\, complete genome:0.43164)
+Branch 50:0.02112,
+(
+civet007\, complete genome:0.43543,
+Pangolin coronavirus isolate MP789\, complete genome:0.43543)
+Branch 55:0.017333)
+Branch 81:0.0013903)
+Branch 84:0.0029708)
+Branch 89:0.005456,
+(
+Bat coronavirus BtCoV/Rh/YN2012 isolate BtCoV/Rh/YN2012_Ra13591\, complete genome:0.46108,
+(
+(
+(
+Canine coronavirus strain TN-449\, complete genome:0.42036,
+Canine coronavirus strain CCoV/NTU336/F/2008\, complete genome:0.42036)
+Branch 44:0.032579,
+(
+Canine coronavirus strain 1-71\, complete genome:0.44884,
+Canine coronavirus strain CB/05\, complete genome:0.44884)
+Branch 70:0.0040936)
+Branch 82:0.0046206,
+(
+Feline coronavirus UU16\, complete genome:0.45704,
+Feline coronavirus UU8\, complete genome:0.45704)
+Branch 88:0.00052065)
+Branch 90:0.003526)
+Branch 92:0.0014953)
+Branch 94:0.0014347)
+Branch 96:0.00075807)
+Branch 98:0.00073563)
+Branch 99:0.00052152)
+Branch 101:0.00059289)
+Branch 102:0.0012982)
+Branch 103:0.0024051)
+Branch 104:0.001176)
+Branch 105;

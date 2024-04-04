@@ -1,0 +1,421 @@
+(
+Wuhan/IVDC-HB-01:0.30458,
+(
+Wuhan/IVDC-HB-04:0.24498,
+(
+Wuhan/IVDC-HB-05:0.21585,
+(
+(
+Wuhan/WH03:0.13232,
+(
+Wuhan/WH04:0.029401,
+Germany/BavPat1:0.029401)
+Branch 73:0.10291)
+Branch 129:0.056968,
+(
+Wuhan/WIV04:0.1885,
+(
+Wuhan/IPBCAMS-WH-01:0.1877,
+(
+Wuhan-Hu-1:0.1869,
+(
+Wuhan/WH01:0.18429,
+(
+Wuhan/WIV02:0.18027,
+(
+Singapore/1:0.15295,
+(
+Wuhan/IPBCAMS-WH-02:0.14955,
+(
+Hangzhou/HZ-1:0.12479,
+(
+England/01:0.12438,
+(
+Zhejiang/WZ-02:0.12208,
+(
+Guangdong/20SF012:0.12164,
+(
+(
+(
+Chongqing/YC01:0,
+(
+France/IDF0515:0,
+France/IDF0626:0)
+Branch 63:0)
+Branch 64:0.11687,
+(
+USA/CA4:0.11334,
+(
+(
+Guangdong/20SF040:0.058804,
+(
+Thailand/61:0,
+Thailand/74:0)
+Branch 62:0.058804)
+Branch 103:0.050556,
+(
+(
+Hangzhou/HZCDC0001:0.058804,
+(
+Australia/NSW01:0,
+Australia/QLD01:0)
+Branch 61:0.058804)
+Branch 102:0.049273,
+(
+(
+Wuhan/IPBCAMS-WH-04:0.029401,
+Wuhan/IPBCAMS-WH-03:0.029401)
+Branch 72:0.07297,
+(
+USA/CA3:0.087391,
+(
+Chongqing/ZX01:0.087109,
+(
+USA/CA5:0.086821,
+(
+Singapore/3:0.086528,
+(
+Singapore/2:0.086229,
+(
+Belgium/GHB-03021:0.085924,
+(
+Australia/QLD02:0.085613,
+(
+Wuhan/WHU02:0.085297,
+(
+Wuhan/WIV06:0.084973,
+(
+(
+England/02:0,
+SouthKorea/KCDC03:0)
+Branch 60:0.084307,
+(
+Brazil/SPBR-01:0.081539,
+(
+Wuhan/WIV05:0.08055,
+(
+(
+(
+Japan/TY-WK-501:0,
+(
+Japan/TY-WK-521:0,
+(
+Vietnam/VR03-38142:0,
+(
+Japan/KY-V-029:0,
+USA/WI1:0)
+Branch 39:0)
+Branch 40:0)
+Branch 41:0)
+Branch 42:0.055128,
+(
+Japan/TY-WK-012:0.054603,
+(
+(
+Australia/NSW02:0,
+(
+Australia/NSW03:0,
+USA/MA1:0)
+Branch 37:0)
+Branch 38:0.051453,
+(
+USA/CA6:0.049003,
+(
+USA/IL2:0.044102,
+(
+Taiwan/NTU02:0.029401,
+Nepal/61:0.029401)
+Branch 66:0.014701)
+Branch 92:0.0049004)
+Branch 94:0.0024502)
+Branch 96:0.0031503)
+Branch 98:0.00052504)
+Branch 99:0.020544,
+(
+(
+Yunnan/IVDC-YN-003:0.037802,
+(
+Jiangsu/IVDC-JS-001:0.034302,
+(
+Guangzhou/20SF206:0.029401,
+(
+Chongqing/IVDC-CQ-001:0,
+(
+Shandong/IVDC-SD-001:0,
+(
+Sichuan/IVDC-SC-001:0,
+(
+Foshan/20SF207:0,
+Jiangxi/IVDC-JX-002:0)
+Branch 43:0)
+Branch 44:0)
+Branch 45:0)
+Branch 46:0.029401)
+Branch 67:0.0049004)
+Branch 75:0.0035003)
+Branch 82:0.019679,
+(
+(
+Singapore/6:0.029401,
+(
+Italy/INMI1-cs:0,
+Singapore/7:0)
+Branch 57:0.029401)
+Branch 70:0.026544,
+(
+(
+France/RA739:0.029401,
+(
+Japan/NA-20-05-1:0,
+(
+Japan/OS-20-07-1:0,
+Singapore/5:0)
+Branch 58:0)
+Branch 59:0.029401)
+Branch 71:0.022917,
+(
+(
+Guangdong/20SF028:0.029401,
+(
+Guangdong/20SF025:0,
+(
+Guangdong/20SF013:0,
+Guangdong/20SF014:0)
+Branch 50:0)
+Branch 51:0.029401)
+Branch 68:0.021593,
+(
+(
+Guangdong/20SF174:0.029401,
+(
+Taiwan/2:0,
+(
+USA/CA1:0,
+(
+Shenzhen/HKU-SZ-002:0,
+(
+USA/WA1:0,
+Shenzhen/HKU-SZ-005:0)
+Branch 52:0)
+Branch 53:0)
+Branch 54:0)
+Branch 55:0.029401)
+Branch 69:0.017067,
+(
+USA/WA1-F6:0.041265,
+(
+USA/WA1-A12:0.040952,
+(
+Singapore/8:0.040628,
+(
+Singapore/9:0.040291,
+(
+Singapore/10:0.039942,
+(
+Australia/QLD03:0.039579,
+(
+Australia/QLD04:0.039202,
+(
+Singapore/11:0.03881,
+(
+(
+France/IDF0372-isl:0,
+France/IDF0515-isl:0)
+Branch 56:0.037977,
+(
+Fujian/8:0.037534,
+(
+Fujian/13:0.037071,
+(
+France/IDF0386-islP1:0.036588,
+(
+France/IDF0386-islP3:0.036084,
+(
+Cambodia/0012:0.035555,
+(
+Wuhan/HBCDC-HB-01:0.035002,
+(
+(
+Shenzhen/SZTH-002:0,
+(
+Guangdong/20SF201:0,
+(
+Foshan/20SF210:0,
+Foshan/20SF211:0)
+Branch 47:0)
+Branch 48:0)
+Branch 49:0.032496,
+(
+(
+Shenzhen/SZTH-003:0,
+(
+France/IDF0372:0,
+(
+France/IDF0373:0,
+(
+Wuhan/WHU01:0,
+(
+France/IDF0571:0,
+(
+Taiwan/CGMH-CGU-01:0,
+(
+Taiwan/3:0,
+(
+Taiwan/4:0,
+(
+SouthKorea/SNU01:0,
+(
+Jiangsu/JS01:0,
+(
+Sweden/01:0,
+(
+Jiangsu/JS02:0,
+(
+Jiangsu/JS03:0,
+(
+USA/CA7:0,
+(
+USA/CA8:0,
+(
+USA/TX1:0,
+(
+China/WH-09:0,
+(
+Hefei/2:0,
+(
+HongKong/VM20001061:0,
+(
+Wuhan/IPBCAMS-WH-05:0,
+(
+HongKong/VB20024950-2:0,
+(
+Wuhan/WIV07:0,
+(
+HongKong/VB20026565-2:0,
+(
+Jingzhou/HBCDC-HB-01:0,
+(
+USA/CA9:0,
+(
+SouthKorea/KCDC05:0,
+(
+SouthKorea/KCDC06:0,
+(
+SouthKorea/KCDC07:0,
+(
+SouthKorea/KCDC12:0,
+(
+SouthKorea/KCDC24:0,
+(
+Wuhan/HBCDC-HB-02:0,
+(
+USA/IL1:0,
+(
+Wuhan/HBCDC-HB-03:0,
+Germany/Baden-Wuerttemberg-1:0)
+Branch 1:0)
+Branch 2:0)
+Branch 3:0)
+Branch 4:0)
+Branch 5:0)
+Branch 6:0)
+Branch 7:0)
+Branch 8:0)
+Branch 9:0)
+Branch 10:0)
+Branch 11:0)
+Branch 12:0)
+Branch 13:0)
+Branch 14:0)
+Branch 15:0)
+Branch 16:0)
+Branch 17:0)
+Branch 18:0)
+Branch 19:0)
+Branch 20:0)
+Branch 21:0)
+Branch 22:0)
+Branch 23:0)
+Branch 24:0)
+Branch 25:0)
+Branch 26:0)
+Branch 27:0)
+Branch 28:0)
+Branch 29:0)
+Branch 30:0)
+Branch 31:0)
+Branch 32:0)
+Branch 33:0.029401,
+(
+China/IQTC01:0,
+(
+China/IQTC02:0,
+(
+Japan/Hu_DP_Kng_19-020:0,
+Japan/Hu_DP_Kng_19-027:0)
+Branch 34:0)
+Branch 35:0)
+Branch 36:0.029401)
+Branch 65:0.003095)
+Branch 74:0.0025055)
+Branch 76:0.00055354)
+Branch 77:0.00052837)
+Branch 78:0.00050489)
+Branch 79:0.00048294)
+Branch 80:0.00046239)
+Branch 81:0.00044312)
+Branch 83:0.00083307)
+Branch 84:0.00039203)
+Branch 85:0.00037696)
+Branch 86:0.00036273)
+Branch 87:0.0003493)
+Branch 88:0.00033659)
+Branch 89:0.00032457)
+Branch 90:0.00031318)
+Branch 91:0.0052029)
+Branch 93:0.0045256)
+Branch 95:0.0013242)
+Branch 97:0.0036274)
+Branch 100:0.0015355)
+Branch 101:0.018191)
+Branch 105:0.0048783)
+Branch 106:0.00098847)
+Branch 107:0.0027684)
+Branch 108:0.00066611)
+Branch 109:0.00032316)
+Branch 110:0.00031682)
+Branch 111:0.00031067)
+Branch 112:0.0003047)
+Branch 113:0.00029889)
+Branch 114:0.00029325)
+Branch 115:0.00028777)
+Branch 116:0.00028244)
+Branch 117:0.01498)
+Branch 118:0.0057058)
+Branch 119:0.0012828)
+Branch 120:0.0039811)
+Branch 121:0.0035251)
+Branch 122:0.0016388,
+(
+Zhejiang/WZ-01:0.11761,
+(
+USA/CA2:0.058804,
+USA/AZ1:0.058804)
+Branch 104:0.058809)
+Branch 123:0.00089182)
+Branch 124:0.0031403)
+Branch 125:0.00043828)
+Branch 126:0.0022983)
+Branch 127:0.00040981)
+Branch 128:0.024756)
+Branch 130:0.0033999)
+Branch 131:0.027326)
+Branch 132:0.0040116)
+Branch 133:0.002614)
+Branch 134:0.00080581)
+Branch 135:0.00079378)
+Branch 136:0.00078511)
+Branch 137:0.02657)
+Branch 138:0.029127)
+Branch 139:0.059597)
+Branch 140;

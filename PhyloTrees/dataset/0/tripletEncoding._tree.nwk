@@ -1,0 +1,157 @@
+(
+Guangxi pangolin CoV GX/P3B:0.48468,
+(
+Murine hepatitis virus:0.4732,
+(
+(
+Human CoV NL63:0.46942,
+(
+Bat SARS CoV Rs672/2006:0.46574,
+(
+(
+(
+Rousettus bat CoV HKU9:0.45224,
+Rousettus bat CoV GCCDC1:0.45224)
+Branch 32:0.0056521,
+(
+Bat SARS CoV WIV1:0.45316,
+(
+SARS CoV LC5:0.45187,
+(
+(
+Bat SARS CoV ZC45:0.44073,
+(
+SARS-CoV-2/Hu/DP/Kng/19-027 RNA:0.36029,
+SARS-CoV-2/human/VNM/nCoV-19-02S/2020:0.36029)
+Branch 7:0.080441)
+Branch 21:0.0022755,
+(
+(
+SARS CoV Tor2:0.3707,
+(
+Bat SARS CoV Rp3:0.31878,
+Bat SARS CoV ZXC21:0.31878)
+Branch 6:0.051918)
+Branch 10:0.071638,
+(
+Bat SARS CoV RsSHC014:0.42424,
+(
+Bat SARS CoV HKU3-1:0.37967,
+SARS CoV SZ3:0.37967)
+Branch 11:0.044575)
+Branch 16:0.018095)
+Branch 22:0.00066817)
+Branch 23:0.0088573)
+Branch 30:0.0012967)
+Branch 33:0.0047251)
+Branch 37:0.0048339,
+(
+Human CoV OC43:0.46114,
+(
+(
+PEDV:0.45827,
+Rhinolophus bat CoV HKU2:0.45827)
+Branch 38:0.0024746,
+(
+Mink CoV WD1127:0.45963,
+(
+TGEV:0.45953,
+(
+Bat Hp-betaCoV/Zhejiang2013:0.45919,
+(
+(
+(
+SARS CoV BJ01:0.44736,
+(
+Bat SARS CoV Rf1:0.43662,
+Bat SARS CoV Longquan-140:0.43662)
+Branch 19:0.010744)
+Branch 27:0.0035906,
+(
+SARS-CoV-2/human/IND/166/2020:0.44795,
+(
+SARS-CoV-2/human/ISR/ISR_IT0320/2020:0.43302,
+(
+Guangxi pangolin CoV GX/P2V:0.40867,
+(
+Guangxi pangolin CoV GX/P1E:0.29068,
+(
+Guangxi pangolin CoV GX/P4L:0.020441,
+(
+Guangxi pangolin CoV GX/P5L:0.016417,
+Guangxi pangolin CoV GX/P5E:0.016417)
+Branch 2:0.0040236)
+Branch 3:0.27024)
+Branch 5:0.118)
+Branch 14:0.024344)
+Branch 17:0.014928)
+Branch 28:0.0030091)
+Branch 29:0.0068788,
+(
+Pipistrellus bat CoV HKU5:0.45515,
+(
+MERS CoV:0.44467,
+Tylonycteris bat CoV HKU4:0.44467)
+Branch 24:0.010485)
+Branch 35:0.0026842)
+Branch 36:0.0013542)
+Branch 39:0.00034114)
+Branch 40:9.7275e-05)
+Branch 41:0.0011154)
+Branch 42:0.00040149)
+Branch 43:0.0015777)
+Branch 45:0.0030164)
+Branch 47:0.0036813)
+Branch 48:0.0023986,
+(
+Human CoV 229E:0.46999,
+(
+(
+(
+SARS-CoV-2/human/ESP/Valencia003/2020:0.44493,
+SARS-CoV-2/human/PAK/Gilgit1/2020:0.44493)
+Branch 25:0.0089359,
+(
+SARS-CoV-2/human/NPL/61-TW/2020:0.45199,
+(
+Bat CoV RaTG13:0.44695,
+(
+Guangdong pangolin CoV:0.4407,
+(
+(
+(
+2019-nCoV/USA-WA1/2020:0.36421,
+SARS-CoV-2/human/BRA/SP02/2020:0.36421)
+Branch 9:0.040535,
+(
+SARS-CoV-2/human/PER/Peru-10/2020:0.39084,
+(
+SARS-CoV-2/NTU02/TWN/human/2020:0.25716,
+SARS-CoV-2/human/ITA/INMI1/2020:0.25716)
+Branch 4:0.13368)
+Branch 12:0.013904)
+Branch 13:0.028512,
+(
+(
+Wuhan-Hu-1:0.015345,
+SNU01:0.015345)
+Branch 1:0.39772,
+(
+Australia/VIC01/2020:0.36359,
+SARS-CoV-2/human/SWE/01/2020:0.36359)
+Branch 8:0.049474)
+Branch 15:0.020191)
+Branch 18:0.0074414)
+Branch 20:0.0062548)
+Branch 26:0.0050374)
+Branch 31:0.0018773)
+Branch 34:0.010481,
+(
+Bat CoV BM48-31/BGR/2008:0.46144,
+SARS CoV BtKY72:0.46144)
+Branch 44:0.0029124)
+Branch 46:0.0056444)
+Branch 49:0.0018231)
+Branch 50:0.0013848)
+Branch 51:0.011479)
+Branch 52;
